@@ -17,8 +17,8 @@ class weather_app extends StatefulWidget {
 
 class _weather_appState extends State<weather_app> {
 
-
-  String apiKey = 'dc448465f94d681b1433aea1e0af7979';
+//Enter your API instead of X's
+  String apiKey = 'XXXXXXXXXXXXXXXX';
   var description;
   var temp;
   String city;
